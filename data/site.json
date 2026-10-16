@@ -397,7 +397,7 @@
         },
         {
             "title": "333",
-            "content": "[caption id=\"\" align=\"alignnone\" width=\"488\"]<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/paste-1792157624949.jpg\" alt=\"替代文本\" width=\"488\" height=\"609\" \/> 说明文字[\/caption]\n<p>555<\/p>"
+            "content": "[caption id=\"\" align=\"aligncenter\" width=\"488\"]<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/paste-1792157624949.jpg\" alt=\"替代文本\" width=\"488\" height=\"609\" \/> 说明文字[\/caption]\n<p>555<\/p>"
         }
     ],
     "news": [
@@ -425,5 +425,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 21:42:50"
+    "updated_at": "2026-10-16 21:44:53"
 }
