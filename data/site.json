@@ -12,7 +12,10 @@
                 58110,
                 58112
             ],
-            "video_captions": []
+            "video_captions": {
+                "58110": "视频2",
+                "58112": "视频1"
+            }
         },
         {
             "key": "company_name",
@@ -25,7 +28,10 @@
                 57904,
                 57902
             ],
-            "image_captions": []
+            "image_captions": {
+                "57902": "图片2",
+                "57904": "图片1"
+            }
         },
         {
             "key": "location",
@@ -420,5 +426,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-16 20:41:15"
+    "updated_at": "2026-10-16 20:43:47"
 }
