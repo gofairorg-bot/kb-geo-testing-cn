@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司28",
+            "value": "广州潜龙科技有限公司289",
             "images": [
                 57904,
                 57902
@@ -426,5 +426,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-19 22:28:34"
+    "updated_at": "2026-10-19 23:26:00"
 }
