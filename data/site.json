@@ -7,10 +7,10 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司289",
+            "value": "广州潜龙科技有限公司2896",
             "images": [
-                57904,
-                57902
+                57902,
+                57904
             ],
             "image_captions": {
                 "57902": "pic2",
@@ -167,8 +167,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58051,
-                58050
+                58050,
+                58051
             ],
             "image_captions": []
         },
@@ -433,5 +433,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-19 23:34:27"
+    "updated_at": "2026-10-19 23:45:54"
 }
