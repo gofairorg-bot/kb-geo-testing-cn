@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司2896",
+            "value": "广州潜龙科技有限公司28965",
             "images": [
                 57902,
                 57904
@@ -23,7 +23,7 @@
             "label_en": "Company Video",
             "placeholder_zh": "上传你的企业宣传片",
             "placeholder_en": "Upload your company video",
-            "value": "我们公司的宣传片",
+            "value": "我们公司的宣传片5",
             "videos": [
                 58111,
                 58112,
@@ -167,8 +167,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58050,
-                58051
+                58051,
+                58050
             ],
             "image_captions": []
         },
@@ -433,5 +433,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-19 23:45:54"
+    "updated_at": "2026-10-20 00:07:10"
 }
