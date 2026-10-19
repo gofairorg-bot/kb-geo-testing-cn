@@ -12,7 +12,10 @@
                 57904,
                 57902
             ],
-            "image_captions": []
+            "image_captions": {
+                "57902": "pic2",
+                "57904": "pic1"
+            }
         },
         {
             "key": "company_video2",
@@ -26,7 +29,11 @@
                 58112,
                 58110
             ],
-            "video_captions": []
+            "video_captions": {
+                "58110": "vid3",
+                "58111": "vid1",
+                "58112": "vid2"
+            }
         },
         {
             "key": "location",
@@ -426,5 +433,5 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80
     },
-    "updated_at": "2026-10-19 23:26:00"
+    "updated_at": "2026-10-19 23:34:27"
 }
