@@ -7,10 +7,10 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司1652",
+            "value": "广州潜龙科技有限公司1710",
             "images": [
-                57904,
-                57902
+                57902,
+                57904
             ],
             "image_captions": {
                 "57902": "pic2",
@@ -23,7 +23,7 @@
             "label_en": "Company Video",
             "placeholder_zh": "上传你的企业宣传片",
             "placeholder_en": "Upload your company video",
-            "value": "我们公司的宣传片1652",
+            "value": "我们公司的宣传片1710",
             "videos": [
                 58111,
                 58112,
@@ -357,8 +357,8 @@
     ],
     "products": [
         {
-            "title": "土豆削皮机1652",
-            "content": "<p><a href=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/文字文稿11.pdf\">文字测试哈哈哈文稿11<\/a><\/p>\n<table>\n<tbody>\n<tr>\n<td width=\"189\">\n<p>大丰收<\/p>\n<\/td>\n<td width=\"189\">\n<p>啥地方<\/p>\n<\/td>\n<td width=\"189\"> <\/td>\n<\/tr>\n<tr>\n<td width=\"189\">\n<p>额外恩我<\/p>\n<\/td>\n<td width=\"189\">\n<p>啥地方<\/p>\n<\/td>\n<td width=\"189\">\n<p>啥地方<\/p>\n<\/td>\n<\/tr>\n<tr>\n<td width=\"189\">\n<p>动手术<\/p>\n<\/td>\n<td width=\"189\">\n<p>实打实<\/p>\n<\/td>\n<td width=\"189\">\n<p>啥地方<\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p>土豆削皮机23323<\/p>\n<table style=\"border-collapse: collapse; width: 108.03pt;\" border=\"0\" width=\"144\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt; width: 54.00pt;\" width=\"72\" height=\"18\">人数：<\/td>\n<td class=\"et2\" style=\"width: 54.00pt;\" width=\"72\">企业图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">占地面积：<\/td>\n<td class=\"et2\">资质证书图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">产品应用领域：<\/td>\n<td class=\"et2\">微信二维码图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">资质证书：<\/td>\n<td class=\"et2\">3. 联系方式：<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p><img class=\"alignleft\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-210a52b1f3c4-2.jpg\" alt=\"\" width=\"576\" height=\"259\" \/><\/p>",
+            "title": "土豆削皮机1710",
+            "content": "<p><a href=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/文字文稿11.pdf\">文字测试哈哈哈文稿11<\/a><\/p>\n<table>\n<tbody>\n<tr>\n<td width=\"189\">大丰收<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\"> <\/td>\n<\/tr>\n<tr>\n<td width=\"189\">额外恩我<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<tr>\n<td width=\"189\">动手术<\/td>\n<td width=\"189\">实打实<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p>土豆削皮机23323<\/p>\n<table style=\"border-collapse: collapse; width: 108.03pt;\" border=\"0\" width=\"144\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt; width: 54.00pt;\" width=\"72\" height=\"18\">人数：<\/td>\n<td class=\"et2\" style=\"width: 54.00pt;\" width=\"72\">企业图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">占地面积：<\/td>\n<td class=\"et2\">资质证书图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">产品应用领域：<\/td>\n<td class=\"et2\">微信二维码图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">资质证书：<\/td>\n<td class=\"et2\">3. 联系方式：<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p><img class=\"alignleft\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-210a52b1f3c4-2.jpg\" alt=\"\" width=\"576\" height=\"259\" \/><\/p>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "category_l1_label": "削皮机",
@@ -434,7 +434,7 @@
         "logo_height": 80
     },
     "advanced": {
-        "custom_domain": "abc.com"
+        "custom_domain": ""
     },
-    "updated_at": "2026-10-20 16:53:03"
+    "updated_at": "2026-10-20 17:10:31"
 }

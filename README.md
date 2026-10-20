@@ -5,7 +5,7 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Entity
 
-- **Company / 企业**: 广州潜龙科技有限公司1652
+- **Company / 企业**: 广州潜龙科技有限公司1710
 - **Brand / 品牌**: 好兄弟
 - **Location / 地区**: 中国广东广州2
 - **Products / 产品**: 数控设备、激光设备、焊接设备
@@ -15,14 +15,14 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 | Page | File |
 |------|------|
-| Home | [index.html](https://abc.com/index.html) |
-| About | [about.html](https://abc.com/about.html) |
-| Products | [products.html](https://abc.com/products.html) |
-| Platforms (sameAs sources) | [platforms.html](https://abc.com/platforms.html) |
-| FAQ | [faq.html](https://abc.com/faq.html) |
-| Cases | [cases.html](https://abc.com/cases.html) |
-| News | [news.html](https://abc.com/news.html) |
-| Contact | [contact.html](https://abc.com/contact.html) |
+| Home | [index.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/index.html) |
+| About | [about.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/about.html) |
+| Products | [products.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/products.html) |
+| Platforms (sameAs sources) | [platforms.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/platforms.html) |
+| FAQ | [faq.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/faq.html) |
+| Cases | [cases.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/cases.html) |
+| News | [news.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/news.html) |
+| Contact | [contact.html](https://gofairorg-bot.github.io/kb-geo-testing-cn/contact.html) |
 
 ## Official profiles (sameAs)
 
@@ -36,10 +36,10 @@ Official **brand knowledge base** (static site for GitHub Pages).
 
 ## Machine-readable
 
-- [llms.txt](https://abc.com/llms.txt) — guidance for AI systems
-- [data/organization.json](https://abc.com/data/organization.json) — Organization JSON-LD
-- [data/site.json](https://abc.com/data/site.json) — full structured export
-- [sitemap.xml](https://abc.com/sitemap.xml) / [robots.txt](https://abc.com/robots.txt)
+- [llms.txt](https://gofairorg-bot.github.io/kb-geo-testing-cn/llms.txt) — guidance for AI systems
+- [data/organization.json](https://gofairorg-bot.github.io/kb-geo-testing-cn/data/organization.json) — Organization JSON-LD
+- [data/site.json](https://gofairorg-bot.github.io/kb-geo-testing-cn/data/site.json) — full structured export
+- [sitemap.xml](https://gofairorg-bot.github.io/kb-geo-testing-cn/sitemap.xml) / [robots.txt](https://gofairorg-bot.github.io/kb-geo-testing-cn/robots.txt)
 
 ## Note
 
