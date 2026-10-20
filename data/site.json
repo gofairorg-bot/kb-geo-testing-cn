@@ -12,10 +12,7 @@
                 57902,
                 57904
             ],
-            "image_captions": {
-                "57902": "pic2",
-                "57904": "pic1"
-            }
+            "image_captions": []
         },
         {
             "key": "company_video2",
@@ -29,11 +26,7 @@
                 58112,
                 58110
             ],
-            "video_captions": {
-                "58110": "vid3",
-                "58111": "vid1",
-                "58112": "vid2"
-            }
+            "video_captions": []
         },
         {
             "key": "location",
@@ -434,7 +427,7 @@
         "logo_height": 80
     },
     "advanced": {
-        "custom_domain": ""
+        "custom_domain": "kb.gofair.org"
     },
-    "updated_at": "2026-10-20 17:10:31"
+    "updated_at": "2026-10-20 19:51:06"
 }
