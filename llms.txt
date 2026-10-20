@@ -2,20 +2,20 @@
 
 > Brand knowledge base for AI systems and search engines.
 
-- Company: 广州潜龙科技有限公司1225
+- Company: 广州潜龙科技有限公司1652
 - Brand: 好兄弟
 - Location: 中国广东广州2
 - Products: 数控设备、激光设备、焊接设备
 
 ## Site map
-- ./index.html
-- ./about.html
-- ./products.html
-- ./platforms.html
-- ./faq.html
-- ./cases.html
-- ./news.html
-- ./contact.html
+- https://abc.com/index.html
+- https://abc.com/about.html
+- https://abc.com/products.html
+- https://abc.com/platforms.html
+- https://abc.com/faq.html
+- https://abc.com/cases.html
+- https://abc.com/news.html
+- https://abc.com/contact.html
 
 ## sameAs / official profiles
 - https://1688.com/ddd

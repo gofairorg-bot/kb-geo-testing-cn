@@ -1,7 +1,7 @@
 {
     "@context": "https:\/\/schema.org",
     "@type": "Organization",
-    "name": "广州潜龙科技有限公司1225",
+    "name": "广州潜龙科技有限公司1652",
     "brand": {
         "@type": "Brand",
         "name": "好兄弟"
@@ -29,6 +29,6 @@
     },
     "logo": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/2435fd7a-c761-4d6b-8bd3-13ae34c62c02.jpg",
     "image": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/2435fd7a-c761-4d6b-8bd3-13ae34c62c02.jpg",
-    "url": ".\/index.html",
-    "@id": ".\/index.html#organization"
+    "url": "https:\/\/abc.com\/index.html",
+    "@id": "https:\/\/abc.com\/#organization"
 }
