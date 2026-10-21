@@ -441,10 +441,10 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80,
         "footer_label": "品牌知识库",
-        "style": "tech"
+        "style": "business"
     },
     "advanced": {
         "custom_domain": "kb.gofair.org"
     },
-    "updated_at": "2026-10-22 00:02:14"
+    "updated_at": "2026-10-22 00:13:48"
 }
