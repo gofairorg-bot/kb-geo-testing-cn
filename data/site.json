@@ -2,6 +2,14 @@
     "version": "zh",
     "about": [
         {
+            "key": "site_intro",
+            "label_zh": "本站简介",
+            "label_en": "Introduction of this site",
+            "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
+            "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
+            "value": "本站是一个品牌知识库网站"
+        },
+        {
             "key": "company_name",
             "label_zh": "企业名称",
             "label_en": "Company Name",
@@ -9,10 +17,13 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司1710",
             "images": [
-                57902,
-                57904
+                57904,
+                57902
             ],
-            "image_captions": []
+            "image_captions": {
+                "57902": "pic2",
+                "57904": "pic1"
+            }
         },
         {
             "key": "company_video2",
@@ -26,7 +37,11 @@
                 58112,
                 58110
             ],
-            "video_captions": []
+            "video_captions": {
+                "58110": "vid3",
+                "58111": "vid1",
+                "58112": "vid2"
+            }
         },
         {
             "key": "location",
@@ -160,8 +175,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58050,
-                58051
+                58051,
+                58050
             ],
             "image_captions": []
         },
@@ -424,10 +439,12 @@
         "submenu_width": 250,
         "brand_color": "#04864d",
         "brand_bg": "#e0ffe2",
-        "logo_height": 80
+        "logo_height": 80,
+        "footer_label": "品牌知识库",
+        "style": "business"
     },
     "advanced": {
         "custom_domain": "kb.gofair.org"
     },
-    "updated_at": "2026-10-20 19:51:06"
+    "updated_at": "2026-10-21 18:43:44"
 }
