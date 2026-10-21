@@ -15,10 +15,10 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司1953",
+            "value": "广州潜龙科技有限公司2125",
             "images": [
-                57904,
-                57902
+                57902,
+                57904
             ],
             "image_captions": {
                 "57902": "pic2",
@@ -31,7 +31,7 @@
             "label_en": "Company Video",
             "placeholder_zh": "上传你的企业宣传片",
             "placeholder_en": "Upload your company video",
-            "value": "我们公司的宣传片1953",
+            "value": "我们公司的宣传片2125",
             "videos": [
                 58111,
                 58112,
@@ -441,10 +441,10 @@
         "brand_bg": "#e0ffe2",
         "logo_height": 80,
         "footer_label": "品牌知识库",
-        "style": "luxury"
+        "style": "business"
     },
     "advanced": {
         "custom_domain": "kb.gofair.org"
     },
-    "updated_at": "2026-10-21 20:11:05"
+    "updated_at": "2026-10-21 21:25:31"
 }
