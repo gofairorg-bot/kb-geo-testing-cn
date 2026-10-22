@@ -64,7 +64,7 @@ table.info th,table.info td,.facts-table th,.facts-table td{font-size:1.04rem}
 
 /* 国风东方（新）· 月白纸色 + 朱砂印 + 楷宋字 + 双线框 */
 body.kb-theme-oriental{
-  --kb-ink:#1e211f;--kb-sub:#6b706b;--kb-line:#c9cdc4;--kb-paper:#eceee8;--kb-surface:#f6f7f3;--kb-wrap:1240px;--kb-media-bg:#dfe2da;
+  --kb-ink:#1e211f;--kb-sub:#6b706b;--kb-line:#c9cdc4;--kb-paper:#eceee8;--kb-surface:#f6f7f3;--kb-wrap:1360px;--kb-media-bg:#dfe2da;
   
   
   font-family:var(--kb-font);background:var(--kb-paper)!important;color:var(--kb-ink);line-height:2;letter-spacing:.03em;
@@ -137,7 +137,7 @@ body.kb-theme-oriental{
 .kb-theme-oriental table.info{background:var(--kb-surface);border:1px solid var(--kb-ink);box-shadow:0 0 0 4px var(--kb-paper),0 0 0 5px var(--kb-ink)}
 .kb-theme-oriental table.info th{width:22%;background:transparent;font-family:var(--kb-font);font-weight:700;letter-spacing:.1em;color:var(--kb-accent);border-bottom:1px dashed var(--kb-line);padding:16px 14px}
 .kb-theme-oriental table.info td{border-bottom:1px dashed var(--kb-line);padding:16px 14px}
-.kb-theme-oriental .prose-box{background:var(--kb-surface);border:1px solid var(--kb-ink);border-radius:0;padding:64px 72px;max-width:1000px;margin:8px auto 0;box-shadow:0 0 0 7px var(--kb-paper),0 0 0 8px var(--kb-ink);position:relative}
+.kb-theme-oriental .prose-box{background:var(--kb-surface);border:1px solid var(--kb-ink);border-radius:0;padding:64px 72px;max-width:none;margin:8px auto 0;box-shadow:0 0 0 7px var(--kb-paper),0 0 0 8px var(--kb-ink);position:relative}
 .kb-theme-oriental .prose-box::before{content:"";position:absolute;right:44px;top:0;width:30px;height:48px;background:var(--kb-accent);clip-path:polygon(0 0,100% 0,100% 100%,50% calc(100% - 10px),0 100%)}
 .kb-theme-oriental .prose-box h1{font-family:var(--kb-font);font-size:clamp(1.9rem,3.4vw,2.7rem);font-weight:700;letter-spacing:.12em;line-height:1.45;margin:0 0 36px;padding:0 60px 26px 0;border-bottom:1px solid var(--kb-ink)}
 .kb-theme-oriental .content{font-size:1.06rem;line-height:2.2}
@@ -164,3 +164,74 @@ body.kb-theme-oriental{
 
 body.kb-theme-oriental{--kb-accent:#0a92ae;--kb-accent-hover:#08768c;--kb-accent-deep:#12383f;--kb-accent-deep2:#1f5e6b;--kb-accent-tint:#ebf7fa;--kb-accent-light:#78e2f7;--kb-accent2:#0ef1b8;--kb-accent2-rgb:14,241,184;--kb-accent-rgb:10,146,174;--kb-on-accent:#15171a;--kb-nav-fs:16px;--kb-nav-gap:40px;--kb-sub-w:250px;--kb-search-fs:24px;}
 /* theme:oriental */
+/* custom css */
+/* 右侧悬浮微信客服 */
+.kb-wx-float {
+  position: fixed;
+  right: 18px;
+  bottom: 88px; /* 避开回到顶部按钮 */
+  z-index: 9990;
+  font-family: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.kb-wx-btn {
+  width: 52px;
+  height: 52px;
+  border: 0;
+  border-radius: 50%;
+  background: #07c160;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(7, 193, 96, .4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .2s, box-shadow .2s;
+}
+.kb-wx-btn:hover {
+  transform: scale(1.06);
+  box-shadow: 0 8px 24px rgba(7, 193, 96, .5);
+}
+.kb-wx-btn svg { width: 28px; height: 28px; fill: currentColor; }
+.kb-wx-panel {
+  position: absolute;
+  right: 64px;
+  bottom: 0;
+  width: 160px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 32px rgba(0,0,0,.18);
+  padding: 12px;
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateX(8px);
+  transition: opacity .2s, transform .2s, visibility .2s;
+  pointer-events: none;
+}
+.kb-wx-float.is-open .kb-wx-panel,
+.kb-wx-float:hover .kb-wx-panel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+.kb-wx-panel img {
+  width: 136px;
+  height: 136px;
+  display: block;
+  margin: 0 auto 8px;
+  border-radius: 6px;
+  object-fit: cover;
+  background: #f5f5f5;
+}
+.kb-wx-panel p {
+  margin: 0;
+  font-size: 12px;
+  color: #333;
+  line-height: 1.4;
+}
+.kb-wx-panel .kb-wx-tip { color: #07c160; font-weight: 600; margin-bottom: 4px; }
+@media (max-width: 720px) {
+  .kb-wx-float { right: 12px; bottom: 80px; }
+  .kb-wx-panel { right: 0; bottom: 60px; }
+}

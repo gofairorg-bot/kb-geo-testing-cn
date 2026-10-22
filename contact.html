@@ -90,5 +90,30 @@
 <footer class="site-footer"><div class="footer-inner"><div class="footer-brand">好兄弟</div><nav class="footer-nav" aria-label="footer"><ul><li><a href="index.html">首页</a></li><li><a href="about.html">关于我们</a></li><li><a href="products.html">产品</a></li><li><a href="faq.html">常见问答</a></li><li><a href="news.html">新闻动态</a></li><li><a href="contact.html">联系我们</a></li></ul></nav><p class="footer-copy">好兄弟 · 品牌知识库</p></div></footer><button type="button" id="kb-to-top" class="kb-to-top" title="Top" aria-label="Top">↑</button>
 <div class="lightbox" id="lb" onclick="if(event.target===this)this.classList.remove('open')"></div>
 <script src="assets/site.js"></script>
+<div class="kb-wx-float" id="kb-wx-float">
+  <div class="kb-wx-panel" role="dialog" aria-label="微信客服">
+    <p class="kb-wx-tip">微信扫码咨询</p>
+    <!-- 测试图：请换成你的二维码 URL -->
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fkb.gofair.org" width="136" height="136" alt="微信客服二维码">
+    <p>长按识别 / 扫一扫</p>
+  </div>
+  <button type="button" class="kb-wx-btn" id="kb-wx-btn" aria-label="打开微信客服" title="微信客服">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 4C5.36 4 2 6.69 2 10c0 1.89 1.08 3.56 2.78 4.66L4 18l3.2-1.6c.72.2 1.48.3 2.3.3.2 0 .4 0 .6-.02C9.4 16.1 9 15.1 9 14c0-3.31 3.13-6 7-6 .2 0 .4 0 .6.02C15.7 5.5 12.8 4 9.5 4zm-3 5.5c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm5 0c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zM16 9c-3.31 0-6 2.24-6 5s2.69 5 6 5c.55 0 1.08-.07 1.58-.2L20 20l-.7-2.1C20.95 16.9 22 15.55 22 14c0-2.76-2.69-5-6-5zm-2 3.5c-.41 0-.75-.34-.75-.75s.34-.75.75-.75.75.34.75.75-.34.75-.75.75zm4 0c-.41 0-.75-.34-.75-.75s.34-.75.75-.75.75.34.75.75-.34.75-.75.75z"/></svg>
+  </button>
+</div>
+<script>
+(function () {
+  var box = document.getElementById('kb-wx-float');
+  var btn = document.getElementById('kb-wx-btn');
+  if (!box || !btn) return;
+  btn.addEventListener('click', function (e) {
+    e.stopPropagation();
+    box.classList.toggle('is-open');
+  });
+  document.addEventListener('click', function (e) {
+    if (!box.contains(e.target)) box.classList.remove('is-open');
+  });
+})();
+</script>
 </body>
 </html>
