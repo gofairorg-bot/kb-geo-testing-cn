@@ -15,10 +15,10 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司0823",
+            "value": "广州潜龙科技有限公司1035",
             "images": [
-                57904,
-                57902
+                57902,
+                57904
             ],
             "image_captions": {
                 "57902": "pic2",
@@ -175,8 +175,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58051,
-                58050
+                58050,
+                58051
             ],
             "image_captions": []
         },
@@ -450,7 +450,7 @@
         "style": "industrial"
     },
     "advanced": {
-        "custom_domain": "kb.gofair.org"
+        "custom_domain": ""
     },
-    "updated_at": "2026-10-23 10:08:41"
+    "updated_at": "2026-10-23 10:35:06"
 }

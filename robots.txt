@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://kb.gofair.org/sitemap.xml
+Sitemap: https://gofairorg-bot.github.io/kb-geo-testing-cn/sitemap.xml
