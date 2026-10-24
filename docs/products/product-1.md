@@ -4,6 +4,8 @@
 
 [文字测试哈哈哈文稿11](https://gofairgeo.com/wp-content/uploads/2026/10/文字文稿11.pdf)
 
+![](https://gofairgeo.com/wp-content/uploads/2026/10/pexels-olly-834863.jpg)
+
 大丰收
 啥地方
 
