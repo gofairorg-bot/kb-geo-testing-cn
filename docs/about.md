@@ -6,11 +6,12 @@
 
 ## 企业名称
 
-广州潜龙科技有限公司2040
+广州潜龙科技有限公司2045
 
 ## 企业宣传片
 
 https://www.youtube.com/watch?v=C6Vwl8bD33s
+https://aiqicha.baidu.com/company_detail_32615183300311
 
 ## 所在国家、省份、城市
 
